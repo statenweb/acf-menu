@@ -1,0 +1,6 @@
+{
+  "name": "statenweb-plugin/menu-acf-field",
+  "description": "WordPress plugin `Menu ACF Field`",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0-or-later"
+}
